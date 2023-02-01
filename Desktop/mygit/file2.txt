@@ -1,2 +1,6 @@
 oooo ppppp 
+<<<<<<< HEAD
 hi loooooo lollalalalala
+fhfhfhf sdhsdhdsh
+ggg ddff xsdsdd gfggg
+>>>>>>> f1
